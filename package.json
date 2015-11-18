@@ -1,0 +1,11 @@
+{
+  "name": "iso3166",
+  "version": "1.0.0",
+  "description": "Fetch ISO3166 codes and parse to JSON",
+  "main": "index.js",
+  "dependencies": {
+    "xml2js": "^0.4.15"
+  },
+  "author": "Sanders DeNardi",
+  "license": "MIT"
+}
