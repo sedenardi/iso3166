@@ -2,6 +2,7 @@
   "name": "iso3166",
   "version": "1.0.0",
   "description": "Fetch ISO3166 codes and parse to JSON",
+  "repository": "https://github.com/sedenardi/iso3166.git",
   "main": "index.js",
   "dependencies": {
     "xml2js": "^0.4.15"
